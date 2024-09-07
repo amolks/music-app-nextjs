@@ -1,14 +1,5 @@
 {
   "users": [
-    {
-      "id": "6fb0",
-      "email": "test@test.com",
-      "password": "$2a$10$SNXYTbF9FBgMtr44dLUZQ.Av9gJ0RRk2hY6rzclvaJPuvYqTrTK7S"
-    },
-    {
-      "id": "ecf1",
-      "email": "name@name.com",
-      "password": "$2a$10$XILpJ2hhGk/yrLzmuC6s5eDDGhvqX37KAOKxN.4INUdh7vkxuBtbG"
-    }
+    
   ]
 }
